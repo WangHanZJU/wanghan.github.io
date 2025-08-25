@@ -14,4 +14,4 @@ citation: 'Wenxiang Guo, Changhao Pan, Zhiyuan Zhu, Xintong Hu, Yu Zhang, Li Tan
 
 A large-scale multimodal recorded spatial audio dataset with refined annotations.
 
-Recommended citation: Wenxiang Guo, Changhao Pan, Zhiyuan Zhu, Xintong Hu, Yu Zhang, Li Tang, Rui Yang, Han Wang, Zongbao Zhang, Yuhan Wang, Yixuan Chen, Hankun Xu, Ke Xu, PengFei Fan, ZheTao Chen, Yanhao Yu, Qiange Huang, Fei Wu, Zhou Zhao. (2025). "MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations." <i>NeurIPS 2025 Datasets and Benchmarks Track</i>.
+Wenxiang Guo, Changhao Pan, Zhiyuan Zhu, Xintong Hu, Yu Zhang, Li Tang, Rui Yang, Han Wang, Zongbao Zhang, Yuhan Wang, Yixuan Chen, Hankun Xu, Ke Xu, PengFei Fan, ZheTao Chen, Yanhao Yu, Qiange Huang, Fei Wu, Zhou Zhao. (2025). "MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations." <i>NeurIPS 2025 Datasets and Benchmarks Track</i>.

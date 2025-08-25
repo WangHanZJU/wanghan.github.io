@@ -14,4 +14,4 @@ citation: 'Changhao Pan, Wenxiang Guo, Yu Zhang, Zhiyuan Zhu, ZheTao Chen, Han W
 
 A multimodal evaluation framework for spatial audio playback systems, covering localization and listener preference.
 
-Recommended citation: Changhao Pan, Wenxiang Guo, Yu Zhang, Zhiyuan Zhu, ZheTao Chen, Han Wang, Zhou Zhao. (2025). "A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference." <i>ACMMM 2025</i>.
+Changhao Pan, Wenxiang Guo, Yu Zhang, Zhiyuan Zhu, ZheTao Chen, Han Wang, Zhou Zhao. (2025). "A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference." <i>ACMMM 2025</i>.
