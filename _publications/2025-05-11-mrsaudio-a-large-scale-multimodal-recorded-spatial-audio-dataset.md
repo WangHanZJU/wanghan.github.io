@@ -2,6 +2,7 @@
 title: "MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations"
 collection: publications
 permalink: /publication/2025-05-11-mrsaudio-a-large-scale-multimodal-recorded-spatial-audio-dataset
+category: conferences
 excerpt: 'A large-scale multimodal recorded spatial audio dataset with refined annotations.'
 date: 2025-05-11
 venue: 'NeurIPS 2025 Datasets and Benchmarks Track'

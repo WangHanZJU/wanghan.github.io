@@ -2,6 +2,7 @@
 title: "A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference"
 collection: publications
 permalink: /publication/2025-07-05-a-multimodal-evaluation-framework-for-spatial-audio-playback-systems
+category: conferences
 excerpt: 'A multimodal evaluation framework for spatial audio playback systems, covering localization and listener preference.'
 date: 2025-07-05
 venue: 'ACMMM 2025'
